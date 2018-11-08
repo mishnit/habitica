@@ -75,7 +75,7 @@
     "passport-google-oauth20": "1.0.0",
     "paypal-ipn": "3.0.0",
     "paypal-rest-sdk": "^1.8.1",
-    "popper.js": "^1.14.3",
+    "popper.js": "1.14.4",
     "postcss-easy-import": "^3.0.0",
     "ps-tree": "^1.0.0",
     "pug": "^2.0.3",
